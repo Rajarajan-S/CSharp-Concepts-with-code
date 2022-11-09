@@ -8,7 +8,7 @@ class Program // Class
         Console.WriteLine("Introduction to C#"); // Writes a line
         Console.WriteLine("\n");
         Console.WriteLine("Enter your name:");
-        String name = Console.ReadLine(); // Reads a line/input and storing it in a datatype
+        string name = Console.ReadLine(); // Reads a line/input and storing it in a datatype
         Console.WriteLine("\n");
         Console.WriteLine("Hai " + name); // Concatenation 
         Console.WriteLine("Hai {0}", name); // Using placeholder
