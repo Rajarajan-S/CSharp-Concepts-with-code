@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-StringType", "CSharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary_operator", "Ternary_operator\Ternary_operator.csproj", "{6F406DE6-1DD3-4C44-A510-0F47258FF206}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable_types", "Nullable_types\Nullable_types.csproj", "{5C1CAF74-0B35-474F-B872-592734287201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6F406DE6-1DD3-4C44-A510-0F47258FF206}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F406DE6-1DD3-4C44-A510-0F47258FF206}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F406DE6-1DD3-4C44-A510-0F47258FF206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1CAF74-0B35-474F-B872-592734287201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1CAF74-0B35-474F-B872-592734287201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1CAF74-0B35-474F-B872-592734287201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1CAF74-0B35-474F-B872-592734287201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
