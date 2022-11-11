@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary_operator", "Ternary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable_types", "Nullable_types\Nullable_types.csproj", "{5C1CAF74-0B35-474F-B872-592734287201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datatypes_conversion", "Datatypes_conversion\Datatypes_conversion.csproj", "{A4038FDC-6E74-42AA-AC44-D1F5C330D842}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5C1CAF74-0B35-474F-B872-592734287201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C1CAF74-0B35-474F-B872-592734287201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C1CAF74-0B35-474F-B872-592734287201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4038FDC-6E74-42AA-AC44-D1F5C330D842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4038FDC-6E74-42AA-AC44-D1F5C330D842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4038FDC-6E74-42AA-AC44-D1F5C330D842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4038FDC-6E74-42AA-AC44-D1F5C330D842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
