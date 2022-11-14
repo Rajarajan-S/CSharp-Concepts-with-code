@@ -7,6 +7,8 @@ namespace Switch_statement
         static void Main(string[] args)
         {
             int cost = 0;
+
+        start: // label
             Console.WriteLine("Enter the size of pizza (inches): 6 / 8 / 10");
             int mark = int.Parse(Console.ReadLine());
 
@@ -23,7 +25,25 @@ namespace Switch_statement
                     break;
                 default:
                     Console.WriteLine("\nYour choice is invalid !!! Enter only 6 / 8 / 10 ");
-                    break; 
+                    goto start; 
+            }
+
+        here:
+            Console.WriteLine("Do you want to buy another pizza? Enter YES or NO");
+            string dec = Console.ReadLine();
+
+            switch (dec.ToUpper())
+            {
+                case "YES":
+                    goto start; // 'goto' makes a jump to specified label. Denoting a label named 'start'.
+
+                case "NO":
+                    break;
+
+                default:
+                    Console.WriteLine("\nYour choice is invalid !!! Enter only YES / NO ");
+                    goto here;
+
             }
             Console.WriteLine("\nYour bill amount is {0}", cost);
             Console.ReadLine();
