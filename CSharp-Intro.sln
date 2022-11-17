@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch statement", "Switch statement\Switch statement.csproj", "{C9C4F31B-E777-4972-9963-6AC1377105BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_loop", "While_loop\While_loop.csproj", "{796F2904-7501-446F-A6D3-C6A4B15DCFDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C9C4F31B-E777-4972-9963-6AC1377105BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9C4F31B-E777-4972-9963-6AC1377105BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9C4F31B-E777-4972-9963-6AC1377105BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796F2904-7501-446F-A6D3-C6A4B15DCFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796F2904-7501-446F-A6D3-C6A4B15DCFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796F2904-7501-446F-A6D3-C6A4B15DCFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796F2904-7501-446F-A6D3-C6A4B15DCFDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
