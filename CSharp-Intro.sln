@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for_foreach_loop", "for_for
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{C41E6500-8EB6-4105-A169-77AC163003A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_parameters", "Method_parameters\Method_parameters.csproj", "{CA3DB0D1-A928-472E-AD56-217FE9A4ABCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C41E6500-8EB6-4105-A169-77AC163003A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C41E6500-8EB6-4105-A169-77AC163003A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C41E6500-8EB6-4105-A169-77AC163003A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA3DB0D1-A928-472E-AD56-217FE9A4ABCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3DB0D1-A928-472E-AD56-217FE9A4ABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3DB0D1-A928-472E-AD56-217FE9A4ABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3DB0D1-A928-472E-AD56-217FE9A4ABCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
